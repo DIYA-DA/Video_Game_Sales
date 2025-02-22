@@ -21,9 +21,6 @@ The objective of this project is to predict **global video game sales** based on
 ### **A. Data Preprocessing & Cleaning**
 - Load the dataset using **Pandas**  
 - Check for missing values and handle them appropriately  
-- Convert categorical data into numerical form if needed  
-- Normalize or scale numerical features if required  
-- Drop unnecessary columns that do not contribute to predictions  
 
 ### **B. Data Visualization**
 - **Count Plot**: Displays the number of video games in different categories.  
